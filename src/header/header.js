@@ -1,25 +1,25 @@
-import header from './css/header.module.css';
+import headerStyle from './css/header.module.css';
 import logo from '../logo.svg';
 
-console.log(header);
+console.log(headerStyle.navLink);
 
-const Header = (e) => {
+const Header = () => {
     return (
-        <header className={header.header}>
-            <div className={header.headerWrapper}>
-                <div className={header.headerLogo}>
+        <header className={headerStyle.header}>
+            <div className={headerStyle.wrapper}>
+                <div className={headerStyle.logo}>
                     <img width="60" height="65" src={logo} alt="Logo site"/>
                 </div>
                 <nav>
-                    <ul className={header.navList}>
+                    <ul className={headerStyle.list}>
                         <li>
-                            <a className={header.navLink} href="#">Home</a>
+                            <a className={headerStyle.link} href="#">Home</a>
                         </li>
                         <li>
-                            <a className={header.navLink} href="#">About</a>
+                            <a className={headerStyle.link} href="#">About</a>
                         </li>
                         <li>
-                            <a className={header.navLink} href="#">Contacts</a>
+                            <a className={headerStyle.link} href="#">Contacts</a>
                         </li>
                     </ul>
                 </nav>

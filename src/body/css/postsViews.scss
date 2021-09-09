@@ -1,0 +1,16 @@
+.postsViews {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.post {
+  display: flex;
+  gap: 20px;
+}
+
+.userImage {
+  max-width: 50px;
+  max-height: 50px;
+  width: 100%;
+}

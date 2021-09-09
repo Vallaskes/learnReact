@@ -2,35 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d36b9b8-2f40-4891-92ee-8e6cf2f8e8d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/body/components/postsViews.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/body/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/body/css/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/body/css/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/body/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/app.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/app.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/app.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/index.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/footer/css/footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/footer/css/footer.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/footer/css/footer.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/footer/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/header/css/header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/header/css/header.module.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/header/css/header.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/header/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sidebar/css/sidebar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sidebar/css/sidebar.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sidebar/css/sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sidebar/sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/body/css/postsViews.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sidebar/css/sidebar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sidebar/css/sidebar.module.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/body/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/body/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/body/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/body/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/body/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/body/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/app.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/app.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/app.module.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/app.module.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/footer/css/footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer/css/footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/footer/css/footer.module.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer/css/footer.module.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/footer/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/header/css/header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/css/header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/header/css/header.module.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/css/header.module.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/header/css/header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/css/header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sidebar/css/sidebar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sidebar/css/sidebar.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sidebar/css/sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sidebar/css/sidebar.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sidebar/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sidebar/sidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +38,16 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1xswMNTI3VAVy7rp6I8VUVDJZpJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -59,6 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -90,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631157054445</updated>
-      <workItem from="1631157056122" duration="864000" />
+      <workItem from="1631157056122" duration="4983000" />
     </task>
     <servers />
   </component>
@@ -101,25 +106,33 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="42" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1631162129023">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="42" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631162129023" />
     <state x="317" y="147" key="EditFileWatcherDialog" timestamp="1631159053193">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="317" y="147" key="EditFileWatcherDialog/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631159053193" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1631159328806">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1631162941512">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631159328806" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1631159328806">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631162941512" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1631162941512">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631159328806" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1631159328805">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631162941512" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1631162941511">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631159328805" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1631159328806">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631162941511" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1631162941512">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631159328806" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631162941512" />
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631163353619">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631163353619" />
   </component>
 </project>

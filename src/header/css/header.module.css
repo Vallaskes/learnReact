@@ -1,27 +1,30 @@
 .header {
   padding: 0 10px;
   background: var(--color-green);
-  grid-area: heclsader;
+  grid-area: header;
   color: #fff;
   height: 50px;
 }
-.header-wrapper {
+
+.wrapper {
   display: flex;
   justify-content: space-between;
   align-items: center;
   height: 100%;
 }
-.header-logo {
+
+.logo {
   animation: App-logo-spin infinite 20s linear;
 }
 
-.nav-list {
+.list {
   list-style: none;
   display: flex;
   flex-direction: row;
   gap: 10px;
 }
-.nav-link {
+
+.link {
   text-decoration: none;
   color: inherit;
   font-weight: 600;
