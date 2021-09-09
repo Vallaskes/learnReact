@@ -1,4 +1,4 @@
-import './css/main.css';
+import './css/main.scss';
 import PostsViews from "./components/postsViews";
 
 let facebookCoverImage = 'https://scontent.fiev21-1.fna.fbcdn.net/v/t31.18172-8/p600x600/1273914_515584715189988_210852689_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=XBWFFLIf7TwAX9wKy4n&_nc_ht=scontent.fiev21-1.fna&oh=073ff6e897e65c5dd9f1760fa3744390&oe=615E37E1';

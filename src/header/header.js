@@ -1,4 +1,4 @@
-import headerStyle from './css/header.module.css';
+import headerStyle from './css/header.module.scss';
 import logo from '../logo.svg';
 
 console.log(headerStyle.navLink);

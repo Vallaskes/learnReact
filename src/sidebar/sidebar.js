@@ -1,5 +1,5 @@
-import sidebarStyle from './css/sidebar.module.css';
-import headerStyle from '../header/css/header.module.css'
+import sidebarStyle from './css/sidebar.module.scss';
+import headerStyle from '../header/css/header.module.scss'
 
 let listStyle = sidebarStyle.list + ' ' + headerStyle.list;
 

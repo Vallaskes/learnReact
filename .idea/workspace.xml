@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d36b9b8-2f40-4891-92ee-8e6cf2f8e8d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/body/css/postsViews.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sidebar/css/sidebar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sidebar/css/sidebar.module.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/body/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/body/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/body/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/body/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/body/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/body/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/app.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/app.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/app.module.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/app.module.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/footer/css/footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer/css/footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/footer/css/footer.module.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer/css/footer.module.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/footer/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer/footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/header/css/header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/css/header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/header/css/header.module.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/css/header.module.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/header/css/header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/css/header.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sidebar/css/sidebar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sidebar/css/sidebar.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sidebar/css/sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sidebar/css/sidebar.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sidebar/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sidebar/sidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,8 +71,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631157054445</updated>
-      <workItem from="1631157056122" duration="4983000" />
+      <workItem from="1631157056122" duration="5890000" />
     </task>
+    <task id="LOCAL-00001" summary="test module to className">
+      <created>1631163399805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631163399805</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,12 +88,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test module to className" />
+    <option name="LAST_COMMIT_MESSAGE" value="test module to className" />
   </component>
   <component name="WindowStateProjectService">
     <state x="42" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1631162129023">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="42" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631162129023" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1631163398248">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631163398248" />
     <state x="317" y="147" key="EditFileWatcherDialog" timestamp="1631159053193">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -130,9 +120,13 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631162941512" />
-    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631163353619">
+    <state x="275" y="90" key="Vcs.Push.Dialog.v2" timestamp="1631163402677">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631163353619" />
+    <state x="275" y="90" key="Vcs.Push.Dialog.v2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631163402677" />
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631165426533">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631165426533" />
   </component>
 </project>
