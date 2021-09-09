@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7d36b9b8-2f40-4891-92ee-8e6cf2f8e8d6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sidebar/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sidebar/sidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631157054445</updated>
-      <workItem from="1631157056122" duration="5890000" />
+      <workItem from="1631157056122" duration="7162000" />
     </task>
     <task id="LOCAL-00001" summary="test module to className">
       <created>1631163399805</created>
@@ -80,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631163399805</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test module to className">
+      <created>1631165541848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631165541848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,10 +105,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="42" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631162129023" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1631163398248">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1631165540161">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631163398248" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631165540161" />
     <state x="317" y="147" key="EditFileWatcherDialog" timestamp="1631159053193">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -124,9 +133,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="90" key="Vcs.Push.Dialog.v2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631163402677" />
-    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631165426533">
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631172503412">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631165426533" />
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631172503412" />
   </component>
 </project>

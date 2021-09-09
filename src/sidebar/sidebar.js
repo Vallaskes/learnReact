@@ -1,13 +1,11 @@
 import sidebarStyle from './css/sidebar.module.scss';
 import headerStyle from '../header/css/header.module.scss'
 
-let listStyle = sidebarStyle.list + ' ' + headerStyle.list;
-
 const Sidebar = () => {
     return (
         <aside className={sidebarStyle.sidebar}>
             <nav className={sidebarStyle.nav}>
-                <ul className={listStyle}>
+                <ul className={`${sidebarStyle.list} ${headerStyle.list}`}>
                     <li>
                         <a href="#" className={headerStyle.link}>Profile</a>
                     </li>

@@ -1,8 +1,6 @@
 import headerStyle from './css/header.module.scss';
 import logo from '../logo.svg';
 
-console.log(headerStyle.navLink);
-
 const Header = () => {
     return (
         <header className={headerStyle.header}>
