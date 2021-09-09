@@ -1,0 +1,39 @@
+.header {
+  padding: 0 10px;
+  background: var(--color-green);
+  grid-area: heclsader;
+  color: #fff;
+  height: 50px;
+}
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+.header-logo {
+  animation: App-logo-spin infinite 20s linear;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.nav-link {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 600;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/*# sourceMappingURL=header.module.css.map */

@@ -1,0 +1,1 @@
+.sidebar{background-color:var(--color-green);color:#fff;padding:10px;grid-area:sidebar;min-height:calc(100vh - 65px)}.sidebar-nav{position:sticky;top:10px}.sidebar-nav ul{flex-direction:column}/*# sourceMappingURL=sidebar.css.map */

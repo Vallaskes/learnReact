@@ -1,0 +1,16 @@
+.sidebar {
+  background-color: var(--color-green);
+  color: #fff;
+  padding: 10px;
+  grid-area: sidebar;
+  min-height: calc(100vh - 65px);
+
+  &-nav {
+    position: sticky;
+    top: 10px;
+
+    ul {
+      flex-direction: column;
+    }
+  }
+}
