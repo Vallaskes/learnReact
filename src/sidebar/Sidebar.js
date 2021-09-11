@@ -1,5 +1,5 @@
-import sidebarStyle from './css/sidebar.module.scss';
-import headerStyle from '../header/css/header.module.scss'
+import sidebarStyle from './css/Sidebar.module.scss';
+import headerStyle from '../header/css/Header.module.scss'
 
 const Sidebar = () => {
     return (

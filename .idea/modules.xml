@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/learn-react.iml" filepath="$PROJECT_DIR$/.idea/learn-react.iml" />
+      <module fileurl="file://C:/OpenServer/domains/shop.loc/.idea/shop.loc.iml" filepath="C:/OpenServer/domains/shop.loc/.idea/shop.loc.iml" />
     </modules>
   </component>
 </project>

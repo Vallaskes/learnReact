@@ -2,9 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d36b9b8-2f40-4891-92ee-8e6cf2f8e8d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/body/components/PostArea.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/body/components/UserInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/body/css/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/body/css/Main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/App.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/App.module.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/footer/css/Footer.module.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/header/css/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/header/css/Header.module.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sidebar/css/Sidebar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sidebar/css/Sidebar.module.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/learn-react.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learn-react.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sidebar/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sidebar/sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/body/components/postsViews.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/body/components/PostsViews.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/body/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/body/css/Main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/body/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/body/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/app.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/App.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/footer/css/footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer/css/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/footer/css/footer.module.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/footer/css/footer.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer/css/Footer.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/footer/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/header/css/header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/css/Header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sidebar/css/sidebar.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sidebar/css/Sidebar.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sidebar/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/sidebar/Sidebar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +44,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -41,6 +66,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/OpenServer/domains/shop.loc" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,7 +99,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631157054445</updated>
-      <workItem from="1631157056122" duration="7162000" />
+      <workItem from="1631157056122" duration="7844000" />
+      <workItem from="1631232292629" duration="651000" />
+      <workItem from="1631233315618" duration="1690000" />
+      <workItem from="1631267546821" duration="616000" />
+      <workItem from="1631309951716" duration="10337000" />
     </task>
     <task id="LOCAL-00001" summary="test module to className">
       <created>1631163399805</created>
@@ -89,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631165541848</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test module to className">
+      <created>1631172515521</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631172515521</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,37 +142,50 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="42" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631162129023" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1631165540161">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1631172514234">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631165540161" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631172514234" />
     <state x="317" y="147" key="EditFileWatcherDialog" timestamp="1631159053193">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="317" y="147" key="EditFileWatcherDialog/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631159053193" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1631162941512">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1631233345428">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631162941512" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1631162941512">
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631233345428" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1631378876142">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631162941512" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1631162941511">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631378876142" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1631206763714" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1631378876141">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631162941511" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1631162941512">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631378876141" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1631206763713" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1631378876140">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631162941512" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631378876140" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1631206763712" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1631378876141">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631378876141" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1631206763713" />
     <state x="275" y="90" key="Vcs.Push.Dialog.v2" timestamp="1631163402677">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="90" key="Vcs.Push.Dialog.v2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631163402677" />
-    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631172503412">
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1631309970465">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631172503412" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631309970465" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1631232375030" />
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631379832158">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/-1280.0.1280.994@0.0.1366.738" timestamp="1631379832158" />
   </component>
 </project>

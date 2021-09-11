@@ -1,4 +1,4 @@
-import footerStyle from './css/footer.module.scss';
+import footerStyle from './css/Footer.module.scss';
 
 let thisYear = new Date().getFullYear();
 
